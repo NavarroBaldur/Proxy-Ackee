@@ -1,0 +1,13 @@
+{
+    "name": "ackee-proxy",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "light-proxy.js",
+    "scripts": {
+      "start": "node light-proxy.js"
+    },
+    "dependencies": {
+      "node-fetch": "^3.0.0",
+      "ua-parser-js": "^1.0.2"
+    }
+  }
